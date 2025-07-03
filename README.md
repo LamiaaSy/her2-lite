@@ -20,13 +20,9 @@ dataset/
 │ ├── 1/
 │ ├── 2/
 │ └── 3/
-└── Test/
 
 ```
-## For more detail on this work
-
-
-If you use this code or models in your research, please cite:
+## If you use this code or models in your research, please cite:
 
 1) Paper:
 
