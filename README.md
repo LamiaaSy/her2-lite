@@ -32,7 +32,7 @@ If you use this code or models in your research, please cite:
 
 2) GitHub Repo:
 
-   ```plaintext
+```plaintext
 @misc{her2lite2025,
   title = {HER2-Lite: Lightweight Models for HER2 Scoring from H\&E and IHC Images},
   author = {Lamiaa Abdel-Hamid},
