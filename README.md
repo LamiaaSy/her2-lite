@@ -22,7 +22,8 @@ dataset/
 │ └── 3/
 └── Test/
 
-### For more detail on this work
+```
+## For more detail on this work
 
 
 If you use this code or models in your research, please cite:
@@ -30,6 +31,8 @@ If you use this code or models in your research, please cite:
 1) Paper:
 
 2) GitHub Repo:
+
+   ```plaintext
 @misc{her2lite2025,
   title = {HER2-Lite: Lightweight Models for HER2 Scoring from H\&E and IHC Images},
   author = {Lamiaa Abdel-Hamid},
@@ -39,4 +42,4 @@ If you use this code or models in your research, please cite:
 }
 
 
-
+'''
