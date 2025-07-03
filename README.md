@@ -8,6 +8,7 @@ The dataset used in this project is not included in the repository due to size a
 
 Please ensure that your dataset is organized in the following folder structure:
 
+```plaintext
 dataset/
 ├── Train/
 │ ├── 0/
