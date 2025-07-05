@@ -122,7 +122,7 @@ valid_generator01 =     valid_datagen.flow_from_directory(  valid_data_dir01,
 
 
 ##TEST
-#test_datagen = ImageDataGenerator(preprocessing_function=preprocess_input) #  preprocessing
+#test_datagen = ImageDataGenerator(preprocessing_function=preprocess_input)
 
 #test_generator =   test_datagen.flow_from_directory(
 #                        test_data_dir01,
