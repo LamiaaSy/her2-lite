@@ -15,7 +15,7 @@ from sklearn.metrics import confusion_matrix, classification_report
 #                           LOAD DATA
 ####################################################################################
 # train_data_dir01 = 'dataset/train'
-# valid_data_dir01 = 'dataset/train/validation'
+# valid_data_dir01 = 'dataset/validation'
 
 ####################################################################################
 #                           PARAMETERS
