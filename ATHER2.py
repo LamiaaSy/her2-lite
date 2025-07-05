@@ -23,7 +23,7 @@ os.environ["PATH"] += os.pathsep + 'C:/Program Files (x86)/Graphviz2.38/bin/'
 ####################################################################################
 
 # train_data_dir01 = 'dataset/train'
-# valid_data_dir01 = 'dataset/train/validation'
+# valid_data_dir01 = 'dataset/validation'
 
 ####################################################################################
 #                           PARAMETERS
