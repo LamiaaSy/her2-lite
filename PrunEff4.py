@@ -1,5 +1,3 @@
-###GitHub July 2025
-
 import keras
 import numpy as np
 import seaborn as sns
